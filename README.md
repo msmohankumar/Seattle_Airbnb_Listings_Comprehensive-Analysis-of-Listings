@@ -1,5 +1,5 @@
 # Seattle_Airbnb_Listings_Comprehensive-Analysis-of-Listings
-![main page](https://github.com/msmohankumar/House_Price_Prediction/assets/153971484/30401344-d6c5-463f-834f-5e0759c68327)
+![main page](https://github.com/msmohankumar/House_Price_Prediction/assets/153971484/b6921762-fce8-43b2-bcc7-139b4d1e52a8)
 
 ## Project Motivation
 ### This project is part of the Udacity Data Scientists Nanodegree Program. I utilized the Seattle Airbnb Dataset, which describes the listing activities of homestays in Seattle, WA. The original dataset can be found here
