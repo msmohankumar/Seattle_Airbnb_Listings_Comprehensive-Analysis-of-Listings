@@ -1,4 +1,6 @@
 # Seattle_Airbnb_Listings_Comprehensive-Analysis-of-Listings
+
+![Github](https://medium.com/@msmohan.kumar2/seattle-airbnb-listings-comprehensive-analysis-of-listings-trends-and-insights-e946ad20ec67)
 ![main page](https://github.com/msmohankumar/House_Price_Prediction/assets/153971484/b6921762-fce8-43b2-bcc7-139b4d1e52a8)
 
 ## Project Motivation
